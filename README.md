@@ -64,3 +64,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchRafail&layout=compact&theme=vision-friendly-white)](https://github.com/ArchRafail/github-readme-stats)
   
+NOTE: Most used languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
