@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/roman-bylo-b5638110a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/roman-bylo-b5638110a/">
+    <a href="http://rb-portfolio.epizy.com/">
       <img src="https://img.shields.io/badge/Portfolio-important?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
