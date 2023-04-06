@@ -20,7 +20,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ivano-Frankivsk, Ukraine.
 - :telescope: I’m looking for a job as a Frontend, Backend or Fullstack Developer.
 - :seedling: Exploring Technical Content Writing.
@@ -58,3 +58,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg"  title="PHPStorm" alt="PHPStorm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg"  title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchRafail&layout=compact&theme=vision-friendly-white)](https://github.com/ArchRafail/github-readme-stats)
+  
